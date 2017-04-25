@@ -1,0 +1,2 @@
+docker build . -t torosentado
+docker run -d -p 4000:80 torosentado
